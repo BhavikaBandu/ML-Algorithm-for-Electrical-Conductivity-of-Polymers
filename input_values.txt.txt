@@ -1,0 +1,58 @@
+Polypyrrole (PPy): 
+- The relative permittivity: 2.5
+- Electron Mobility: 1 x 10^-4 m²/Vs
+- Hole Mobility: 1 x 10^-1 m²/Vs
+- Conduction Band DOS: 10^25 m^-3 eV^-1
+- Valence Band DOS: 10^27 m^-3 eV^-1
+
+
+Polythiophene (PTh): 
+- The relative permittivity: 3.6
+- Electron Mobility: 1.2 x 10e-1 m²/Vs
+- Hole Mobility: 3.7 x 10e-5 m²/Vs
+- Conduction Band DOS: 2.3 x 1e13 m^-3 eV^-1
+- Valence Band DOS: 1.4 x 1e15 m^-3 eV^-1
+
+
+Polyaniline (PANI): 
+- The relative permittivity: 4.95
+- Electron Mobility: 0.40 x 10e-3 m²/Vs
+- Hole Mobility: 0.39 x 10e-5 m²/Vs
+- Conduction Band DOS: 3.2 x 1e12 m^-3 eV^-1
+- Valence Band DOS: 1.7 x 1e14 m^-3 eV^-1
+
+
+Polyacetylene (PA): 
+cis -- 
+- The relative permittivity: 2.4
+- Electron Mobility: 6 x 10e-6 m²/Vs
+- Hole Mobility: 1.4 x 10e-8 m²/Vs
+- Conduction Band DOS: 1.5 x 1e13 m^-3 eV^-1
+- Valence Band DOS: 0.7 x 1e15 m^-3 eV^-1
+
+trans -- 
+- The relative permittivity: 2.6
+- Electron Mobility: 26 x 10e-2 m²/Vs
+- Hole Mobility: 20 x 10e-5 m²/Vs
+- Conduction Band DOS: 0.6 x 1e13 m^-3 eV^-1
+- Valence Band DOS: 1.2 x 1e15 m^-3 eV^-1
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Polypyrrole (PPy): 
+Calculated: around 1.8940201952720697 x 10e-03 S/m 
+Intrinsic conductivity: 1.78 x 10e-03 S/m
+
+Polythiophene (PTh):
+Calculated: around 2.390211174146312 x 10e-3 S/m
+Intrinsic conductivity: 2.45 x 10e-3 S/m
+
+Polyaniline (PANI): 
+Calculated: around 9.550861206007337 x 10e-06 S/m
+Intrinsic conductivity: 9.5 X 10e-6 S/m
+ 
+Polyacetylene (PA):
+Intrinsic conductivity: 4.4 x 10e-3 S/m (trans)
+			1.7 x 10e-7 S/m (cis)
+Calculated: around 1.6241695047675024 x 10e-07 S/m (cis)
+            around 0.004476957011483189 S/m (trans)
